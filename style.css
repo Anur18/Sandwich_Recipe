@@ -1,0 +1,181 @@
+*{
+   margin:0;
+ 
+   background-color: black;
+
+}
+.top img{
+    width: 100px;
+    height: 100px;
+    border: none;
+    padding: 25px;
+    background-color: black;
+    padding-left: 25px;
+ 
+  
+}
+.top{
+    display: flex;
+    color:#1beeaa ;
+    height:17%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:500;
+
+}
+
+.r{
+    
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+    width:70%;
+    padding-top:5%;
+  
+
+
+}
+.l{
+    width: 30%;
+    padding-bottom: 5%;
+  
+
+}
+
+
+header{
+    height:50px;
+    margin-top: 2px;
+}
+header ul{
+    list-style: none;
+    padding-left: 0px;
+    display: flex;
+    justify-content: space-around;
+    background-color:black;
+    font-size: 25px;
+   
+}
+header a:hover{
+    background-color:red;
+}
+
+header a{
+    background-color:black;
+    display: block;
+    color:white;
+    padding: 0px 10px;
+    border: solid 5px;
+    text-decoration: none;
+     border:white solid 1px;
+    border-radius:10px ;
+    
+    
+}
+#ingredients{
+    border:white solid 1px;
+    border-radius:10px ;
+    background-color: black;
+    color: #1beeaa;
+    margin-top:25px;
+    padding-left: 25px;
+    width: 750px;
+}
+#btw{
+    font-size: 20px;
+    margin: auto;
+    width: 650px;
+  
+}
+div ul{
+    list-style-image: url('44-sandwich-png-image_16x16.ico');
+    color:#1beeaa;
+    font-size: 20px;
+    padding-left: 30px;
+   
+    
+}
+#home{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:black;
+    color:#1beeaa;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border:white solid 1px;
+    border-radius:10px ;
+    margin-top: 20px;
+    padding: 10px;
+   
+}
+#direction{
+    list-style-type: lower-roman;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:black;
+    color:#1beeaa;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left:40px;
+    padding-right: 10px;
+    border:white solid 1px;
+    border-radius:10px ;
+    margin-top:25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    
+}
+img{
+    background-color:black;
+    color:#1beeaa;
+    border:white double 1px;
+    border-radius:10px ;
+    margin:auto;
+    margin-top: 30px;
+   
+    
+    
+}
+
+
+h1{
+    background-color:black;
+    font-style: italic;
+    color:#1beeaa;
+}
+h2{
+    color:blueviolet;
+}
+h3{
+    font-size: 25px;
+    color:brown;
+}
+#Home a:active{
+    background-color: tomato;
+} 
+#more{ list-style-image: url('44-sandwich-png-image_16x16.ico');
+    font-style: italic;
+    color:#1beeaa;
+    background-color:black;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border:white solid 1px;
+    border-radius:10px ;
+    margin-top: 25px;
+    padding-left: 40px;
+    
+}
+#more a{
+    color: #1beeaa;
+}
+footer{
+    height: 15%;
+    padding: 15px;
+    padding-left: 30px;
+
+}
+footer a{
+    color: cornsilk;
+    
+}
